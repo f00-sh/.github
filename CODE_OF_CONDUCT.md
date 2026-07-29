@@ -4,4 +4,4 @@ Be respectful. No harassment, hate, or deliberate disruption.
 
 This organization follows the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) spirit: professional technical collaboration.
 
-Report CoC issues to **william@theesfeld.net**.
+Report conduct issues to **tj@f00.sh**.
