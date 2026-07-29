@@ -1,6 +1,6 @@
 # Security
 
-Report vulnerabilities privately via GitHub Security Advisories on the affected repository, or email **william@theesfeld.net**.
+Report vulnerabilities privately via GitHub Security Advisories on the affected repository, or email **tj@f00.sh**.
 
 Do not open public issues for unfixed security bugs.
 
